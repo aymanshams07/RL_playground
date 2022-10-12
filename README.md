@@ -49,6 +49,17 @@ Continuous control report from mentor : https://github.com/aadimator/drl-nd/blob
 *HER* :
 - fetch_slide her : https://github.com/akshay-iyer/FetchSlide_DDPG_HER
 
+*MUJOCO*:
+- overview : https://mujoco.readthedocs.io/en/latest/overview.html
+- install : https://openai.github.io/mujoco-py/build/html/index.html
+- https://github.com/deepmind/mujoco/blob/main/README.md
+- video : https://www.youtube.com/watch?v=Wnb_fiStFb8&t=115s&ab_channel=GuyTordjman
+- instructions pdf : https://docs.google.com/document/d/1eBvfKoczKmImUgoGMbqypODBXmI1bD91/edit
+- third party envs : https://www.gymlibrary.dev/environments/third_party_environments/
+- deepmind : https://github.com/deepmind/mujoco/tree/main/doc
+- https://www.roboti.us/index.html
+- liscence : https://mail.google.com/mail/u/0/#search/mujoco+/FMfcgzGkXwFXLPgncKhHPJsHZdMspQKp
+
 *PER*:
 - Summary : https://danieltakeshi.github.io/2019/07/14/per/
 - rainbow agent_per : https://github.com/google/dopamine/blob/master/dopamine/agents/rainbow/rainbow_agent.py#L273-L304
