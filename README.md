@@ -3,8 +3,12 @@
 *Reinforcement Learning resources* : 
 
 - Deepmind RL_Lecture-series :  https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021
+- Foundations of Deep RL peter aibeel : https://www.youtube.com/watch?v=2GwBez0D20A&t=11s&ab_channel=PieterAbbeel
+- Spinning up : https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
 - Map of RL Lous Kirsch : http://louiskirsch.com/maps/reinforcement-learning
 - Reward is enough : https://www.deepmind.com/publications/reward-is-enough
+- better exploration with param noise : https://openai.com/blog/better-exploration-with-parameter-noise/
+- Noise types : adaptive action, normal ction : https://github.com/openai/baselines/blob/master/baselines/ddpg/noise.py
 - Model Zoo : https://modelzoo.co/model/deep-reinforcement-learning-algorithms-with-pytorch
 - DRL algos with pytorch : https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
 - Some RL parameteres ddpg : https://github.com/Near32/PYTORCH_RL
@@ -14,11 +18,16 @@
 - hands-on : https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition
 - DPGM_course_armahmood : https://armahmood.github.io/dpgm/
 - course youtube : https://www.youtube.com/watch?v=4O4SXKyP908&ab_channel=RLAIlab
+- Oriley RLtute : https://github.com/awjuliani/oreilly-rl-tutorial
+- ShantongZhang : RL an intro : https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+- https://github.com/ShangtongZhang/DeepRL
+- Adrewwalker_DDPG : https://github.com/AndrewWalker251/lunarlander
 
 
 *Udacity DRL course* : 
 
 - Main github :  https://github.com/aadimator/drl-nd
+- https://github.com/udacity/deep-reinforcement-learning
 Continuous control report from mentor : https://github.com/aadimator/drl-nd/blob/master/p2_continuous-control/Report.md
 - cheatsheet : https://github.com/udacity/deep-reinforcement-learning/blob/master/cheatsheet/cheatsheet.pdf
 - ai books : https://github.com/aibooks/aibooks.github.io
@@ -27,8 +36,11 @@ Continuous control report from mentor : https://github.com/aadimator/drl-nd/blob
 - tips and tricks : https://stable-baselines3.readthedocs.io/en/master/guide/rl_tips.html#tips-and-tricks-when-creating-a-custom-environment
 
 *ddpg*
+- DDPG explained : https://towardsdatascience.com/deep-deterministic-policy-gradients-explained-2d94655a9b7b
+- nano : https://github.com/aadimator/drl-nd/blob/master/ddpg-bipedal/DDPG.ipynb
 - openai : https://spinningup.openai.com/en/latest/algorithms/ddpg.html
 - Learning to drive smoothly_ruffian :  https://towardsdatascience.com/learning-to-drive-smoothly-in-minutes-450a7cdb35f4
+- Why ou noise : https://www.quora.com/Why-do-we-use-the-Ornstein-Uhlenbeck-Process-in-the-exploration-of-DDPG/answer/Edouard-Leurent?ch=10&share=4b79f94f&srid=udNQP
 
 *DQN*
 -lunar_lander : https://shiva-verma.medium.com/solving-lunar-lander-openaigym-reinforcement-learning-785675066197
@@ -111,3 +123,6 @@ Rainbow : https://psc-g.github.io/posts/research/rl/revisiting_rainbow/
 - refined CC of DDPG : https://arxiv.org/abs/2006.02818
 - bipedak walking ddpg : https://arxiv.org/pdf/1807.05924.pdf
 - another paper : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6477666/
+
+*competitions* :
+- https://www.gocoder.one/blog/reinforcement-learning-competitions
