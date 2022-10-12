@@ -6,13 +6,6 @@
 - Foundations of Deep RL peter aibeel : https://www.youtube.com/watch?v=2GwBez0D20A&t=11s&ab_channel=PieterAbbeel
 - Spinning up : https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
 - Map of RL Lous Kirsch : http://louiskirsch.com/maps/reinforcement-learning
-- Reward is enough : https://www.deepmind.com/publications/reward-is-enough
-- better exploration with param noise : https://openai.com/blog/better-exploration-with-parameter-noise/
-- Noise types : adaptive action, normal ction : https://github.com/openai/baselines/blob/master/baselines/ddpg/noise.py
-- Model Zoo : https://modelzoo.co/model/deep-reinforcement-learning-algorithms-with-pytorch
-- DRL algos with pytorch : https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
-- Some RL parameteres ddpg : https://github.com/Near32/PYTORCH_RL
-- PG is all you need github a2c,ppo,ddpg,td3 : https://github.com/MrSyee/pg-is-all-you-need
 - Hands on DRL_Lapan : https://subscription.packtpub.com/book/data/9781838826994/17/ch17lvl1sec40/summary
 - https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On
 - hands-on : https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition
@@ -21,6 +14,16 @@
 - Oriley RLtute : https://github.com/awjuliani/oreilly-rl-tutorial
 - ShantongZhang : RL an intro : https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 - https://github.com/ShangtongZhang/DeepRL
+- Reward is enough : https://www.deepmind.com/publications/reward-is-enough
+
+
+*exploration noise*
+- better exploration with param noise : https://openai.com/blog/better-exploration-with-parameter-noise/
+- Noise types : adaptive action, normal ction : https://github.com/openai/baselines/blob/master/baselines/ddpg/noise.py
+- Model Zoo : https://modelzoo.co/model/deep-reinforcement-learning-algorithms-with-pytorch
+- DRL algos with pytorch : https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
+- Some RL parameteres ddpg : https://github.com/Near32/PYTORCH_RL
+- PG is all you need github a2c,ppo,ddpg,td3 : https://github.com/MrSyee/pg-is-all-you-need
 - Adrewwalker_DDPG : https://github.com/AndrewWalker251/lunarlander
 
 
@@ -31,9 +34,12 @@
 Continuous control report from mentor : https://github.com/aadimator/drl-nd/blob/master/p2_continuous-control/Report.md
 - cheatsheet : https://github.com/udacity/deep-reinforcement-learning/blob/master/cheatsheet/cheatsheet.pdf
 - ai books : https://github.com/aibooks/aibooks.github.io
+*Hugging face DRL class* : https://github.com/huggingface/deep-rl-class/blob/main/unit1/unit1.ipynb
+- https://github.com/huggingface/deep-rl-class
 
 **Stable Baseline** 
 - tips and tricks : https://stable-baselines3.readthedocs.io/en/master/guide/rl_tips.html#tips-and-tricks-when-creating-a-custom-environment
+- installation : https://stable-baselines.readthedocs.io/en/master/guide/install.html
 
 *ddpg*
 - DDPG explained : https://towardsdatascience.com/deep-deterministic-policy-gradients-explained-2d94655a9b7b
@@ -41,13 +47,20 @@ Continuous control report from mentor : https://github.com/aadimator/drl-nd/blob
 - openai : https://spinningup.openai.com/en/latest/algorithms/ddpg.html
 - Learning to drive smoothly_ruffian :  https://towardsdatascience.com/learning-to-drive-smoothly-in-minutes-450a7cdb35f4
 - Why ou noise : https://www.quora.com/Why-do-we-use-the-Ornstein-Uhlenbeck-Process-in-the-exploration-of-DDPG/answer/Edouard-Leurent?ch=10&share=4b79f94f&srid=udNQP
+- bipedal walker : huggingface, stablebaseline3 : https://huggingface.co/jackoyoungblood/ddpg-BipedalWalker-v3
 
 *DQN*
 -lunar_lander : https://shiva-verma.medium.com/solving-lunar-lander-openaigym-reinforcement-learning-785675066197
 - question : how many episodes does it usually take ddpg to solve lunar lander environment from open ai gym
 
 *HER* :
+- Ingredients for robotics research : https://openai.com/blog/ingredients-for-robotics-research/
+- HER paper : https://arxiv.org/pdf/1707.01495.pdf
 - fetch_slide her : https://github.com/akshay-iyer/FetchSlide_DDPG_HER
+- RLvirtual school : https://www.youtube.com/playlist?list=PLJct-r1rjHKmqdcLMXHsX8Hp-cvUWMild
+
+
+*Stablebaseline3*
 
 *MUJOCO*:
 - overview : https://mujoco.readthedocs.io/en/latest/overview.html
@@ -110,7 +123,7 @@ Rainbow : https://psc-g.github.io/posts/research/rl/revisiting_rainbow/
 - w&B : https://wandb.ai/authors/ayusht/reports/Implementing-Dropout-in-PyTorch-With-Example--VmlldzoxNTgwOTE
 
 
-
+*Study materials*
 - DRLSS'19 : https://github.com/sahandrez/dlrlss/tree/master/deep_learning
 - DLRL vdo : https://www.youtube.com/watch?v=vY-voHb22io&list=PLKlhhkvvU8-aXmPQZNYG_e-2nTd0tJE8v&index=44&ab_channel=AmiiIntelligence
 - RL_automl : https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html
@@ -126,6 +139,7 @@ Rainbow : https://psc-g.github.io/posts/research/rl/revisiting_rainbow/
 - gradient_clipping : https://openreview.net/forum?id=BJgnXpVYwS
 - batchnrom : https://arxiv.org/abs/1502.03167
 - batch_ : https://www.kdnuggets.com/2020/08/batch-normalization-deep-neural-networks.html
+- teaching robot to walk  : https://arxiv.org/abs/2112.07031
 
 *video*
 - https://stackoverflow.com/questions/65595244/record-openai-gym-video-with-monitor
@@ -137,3 +151,4 @@ Rainbow : https://psc-g.github.io/posts/research/rl/revisiting_rainbow/
 
 *competitions* :
 - https://www.gocoder.one/blog/reinforcement-learning-competitions
+- hugging rl : https://huggingface.us17.list-manage.com/subscribe?u=7f57e683fa28b51bfc493d048&id=e593834177
