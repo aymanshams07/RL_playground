@@ -64,6 +64,7 @@ Continuous control report from mentor : https://github.com/aadimator/drl-nd/blob
 
 *MUJOCO*:
 - overview : https://mujoco.readthedocs.io/en/latest/overview.html
+- https://stable-baselines3.readthedocs.io/_/downloads/en/master/pdf/
 - install : https://openai.github.io/mujoco-py/build/html/index.html
 - https://github.com/deepmind/mujoco/blob/main/README.md
 - video : https://www.youtube.com/watch?v=Wnb_fiStFb8&t=115s&ab_channel=GuyTordjman
@@ -72,6 +73,12 @@ Continuous control report from mentor : https://github.com/aadimator/drl-nd/blob
 - deepmind : https://github.com/deepmind/mujoco/tree/main/doc
 - https://www.roboti.us/index.html
 - liscence : https://mail.google.com/mail/u/0/#search/mujoco+/FMfcgzGkXwFXLPgncKhHPJsHZdMspQKp
+
+*totaltimesteps*
+- https://stackoverflow.com/questions/56700948/understanding-the-total-timesteps-parameter-in-stable-baselines-models
+
+*pybullet*
+- https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.wz5to0x8kqmr
 
 *PER*:
 - Summary : https://danieltakeshi.github.io/2019/07/14/per/
@@ -152,3 +159,7 @@ Rainbow : https://psc-g.github.io/posts/research/rl/revisiting_rainbow/
 *competitions* :
 - https://www.gocoder.one/blog/reinforcement-learning-competitions
 - hugging rl : https://huggingface.us17.list-manage.com/subscribe?u=7f57e683fa28b51bfc493d048&id=e593834177
+
+*companies*
+- fetch robotics : https://fetchrobotics.com/platforms-research-development/
+- hand manipulation : https://www.shadowrobot.com/robotics-research/
