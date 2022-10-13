@@ -94,6 +94,7 @@ Continuous control report from mentor : https://github.com/aadimator/drl-nd/blob
 - sumtree ex : https://github.com/pythonlessons/Reinforcement_Learning/blob/master/05_CartPole-reinforcement-learning_PER_D3QN/PER.py
 
 *PPO*
+- open ai : https://openai.com/blog/openai-baselines-ppo/
 - bipedal walker ppo vdo : https://pylessons.com/BipedalWalker-v3-PPO
 
 *TD3*
@@ -163,3 +164,7 @@ Rainbow : https://psc-g.github.io/posts/research/rl/revisiting_rainbow/
 *companies*
 - fetch robotics : https://fetchrobotics.com/platforms-research-development/
 - hand manipulation : https://www.shadowrobot.com/robotics-research/
+
+*questions to be ans*
+- which environments in mujoco are goal based stackoverflow
+- ingredients for robotics research open ai new
