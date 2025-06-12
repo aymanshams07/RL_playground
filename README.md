@@ -169,4 +169,4 @@ Rainbow : https://psc-g.github.io/posts/research/rl/revisiting_rainbow/
 - which environments in mujoco are goal based stackoverflow
 - ingredients for robotics research open ai new
 - stablebaselin3 contrib TRPO, TQC HER 
-- save model
+- save model..
